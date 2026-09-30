@@ -1,0 +1,1169 @@
+{
+  "source": "INSEE (2016-2025) + Communiqués préfecture (2026)",
+  "generated_at": "2026-09-30T23:31:23.161Z",
+  "total": 128,
+  "note": "Données 2016-2025 : indice INSEE interpolé. Données 2026 : prix officiels.",
+  "releves": [
+    {
+      "date": "2016-01-01",
+      "annee": 2016,
+      "mois": 1,
+      "indice": 92.97,
+      "super": 1.31,
+      "gazole": 0.93,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-02-01",
+      "annee": 2016,
+      "mois": 2,
+      "indice": 88.28,
+      "super": 1.31,
+      "gazole": 0.93,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-03-01",
+      "annee": 2016,
+      "mois": 3,
+      "indice": 86.23,
+      "super": 1.32,
+      "gazole": 0.94,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-04-01",
+      "annee": 2016,
+      "mois": 4,
+      "indice": 90.05,
+      "super": 1.32,
+      "gazole": 0.94,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-05-01",
+      "annee": 2016,
+      "mois": 5,
+      "indice": 90.31,
+      "super": 1.32,
+      "gazole": 0.94,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-06-01",
+      "annee": 2016,
+      "mois": 6,
+      "indice": 92.85,
+      "super": 1.32,
+      "gazole": 0.94,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-07-01",
+      "annee": 2016,
+      "mois": 7,
+      "indice": 94.74,
+      "super": 1.33,
+      "gazole": 0.95,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-08-01",
+      "annee": 2016,
+      "mois": 8,
+      "indice": 93.17,
+      "super": 1.33,
+      "gazole": 0.95,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-09-01",
+      "annee": 2016,
+      "mois": 9,
+      "indice": 90.92,
+      "super": 1.33,
+      "gazole": 0.95,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-10-01",
+      "annee": 2016,
+      "mois": 10,
+      "indice": 92.41,
+      "super": 1.34,
+      "gazole": 0.96,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-11-01",
+      "annee": 2016,
+      "mois": 11,
+      "indice": 96.41,
+      "super": 1.34,
+      "gazole": 0.96,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2016-12-01",
+      "annee": 2016,
+      "mois": 12,
+      "indice": 94.7,
+      "super": 1.34,
+      "gazole": 0.96,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-01-01",
+      "annee": 2017,
+      "mois": 1,
+      "indice": 99.66,
+      "super": 1.35,
+      "gazole": 0.97,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-02-01",
+      "annee": 2017,
+      "mois": 2,
+      "indice": 101.44,
+      "super": 1.35,
+      "gazole": 0.97,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-03-01",
+      "annee": 2017,
+      "mois": 3,
+      "indice": 101.92,
+      "super": 1.35,
+      "gazole": 0.97,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-04-01",
+      "annee": 2017,
+      "mois": 4,
+      "indice": 100.31,
+      "super": 1.35,
+      "gazole": 0.97,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-05-01",
+      "annee": 2017,
+      "mois": 5,
+      "indice": 100.91,
+      "super": 1.36,
+      "gazole": 0.98,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-06-01",
+      "annee": 2017,
+      "mois": 6,
+      "indice": 96.87,
+      "super": 1.36,
+      "gazole": 0.98,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-07-01",
+      "annee": 2017,
+      "mois": 7,
+      "indice": 94.14,
+      "super": 1.36,
+      "gazole": 0.98,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-08-01",
+      "annee": 2017,
+      "mois": 8,
+      "indice": 94.59,
+      "super": 1.37,
+      "gazole": 0.99,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-09-01",
+      "annee": 2017,
+      "mois": 9,
+      "indice": 96,
+      "super": 1.37,
+      "gazole": 0.99,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-10-01",
+      "annee": 2017,
+      "mois": 10,
+      "indice": 97.77,
+      "super": 1.37,
+      "gazole": 0.99,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-11-01",
+      "annee": 2017,
+      "mois": 11,
+      "indice": 98.97,
+      "super": 1.37,
+      "gazole": 0.99,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2017-12-01",
+      "annee": 2017,
+      "mois": 12,
+      "indice": 101.68,
+      "super": 1.38,
+      "gazole": 1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-01-01",
+      "annee": 2018,
+      "mois": 1,
+      "indice": 106.15,
+      "super": 1.38,
+      "gazole": 1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-02-01",
+      "annee": 2018,
+      "mois": 2,
+      "indice": 108.47,
+      "super": 1.38,
+      "gazole": 1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-03-01",
+      "annee": 2018,
+      "mois": 3,
+      "indice": 105.73,
+      "super": 1.39,
+      "gazole": 1.01,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-04-01",
+      "annee": 2018,
+      "mois": 4,
+      "indice": 105.3,
+      "super": 1.39,
+      "gazole": 1.01,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-05-01",
+      "annee": 2018,
+      "mois": 5,
+      "indice": 107.3,
+      "super": 1.39,
+      "gazole": 1.01,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-06-01",
+      "annee": 2018,
+      "mois": 6,
+      "indice": 112.64,
+      "super": 1.39,
+      "gazole": 1.01,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-07-01",
+      "annee": 2018,
+      "mois": 7,
+      "indice": 112.12,
+      "super": 1.4,
+      "gazole": 1.02,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-08-01",
+      "annee": 2018,
+      "mois": 8,
+      "indice": 111.8,
+      "super": 1.4,
+      "gazole": 1.02,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-09-01",
+      "annee": 2018,
+      "mois": 9,
+      "indice": 113.04,
+      "super": 1.4,
+      "gazole": 1.02,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-10-01",
+      "annee": 2018,
+      "mois": 10,
+      "indice": 115.58,
+      "super": 1.41,
+      "gazole": 1.03,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-11-01",
+      "annee": 2018,
+      "mois": 11,
+      "indice": 118.4,
+      "super": 1.41,
+      "gazole": 1.03,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2018-12-01",
+      "annee": 2018,
+      "mois": 12,
+      "indice": 110.58,
+      "super": 1.41,
+      "gazole": 1.03,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-01-01",
+      "annee": 2019,
+      "mois": 1,
+      "indice": 99.59,
+      "super": 1.42,
+      "gazole": 1.04,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-02-01",
+      "annee": 2019,
+      "mois": 2,
+      "indice": 100.1,
+      "super": 1.42,
+      "gazole": 1.04,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-03-01",
+      "annee": 2019,
+      "mois": 3,
+      "indice": 104.32,
+      "super": 1.42,
+      "gazole": 1.04,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-04-01",
+      "annee": 2019,
+      "mois": 4,
+      "indice": 106.55,
+      "super": 1.42,
+      "gazole": 1.04,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-05-01",
+      "annee": 2019,
+      "mois": 5,
+      "indice": 109.78,
+      "super": 1.43,
+      "gazole": 1.05,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-06-01",
+      "annee": 2019,
+      "mois": 6,
+      "indice": 110.28,
+      "super": 1.43,
+      "gazole": 1.05,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-07-01",
+      "annee": 2019,
+      "mois": 7,
+      "indice": 104.61,
+      "super": 1.43,
+      "gazole": 1.05,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-08-01",
+      "annee": 2019,
+      "mois": 8,
+      "indice": 106.97,
+      "super": 1.44,
+      "gazole": 1.06,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-09-01",
+      "annee": 2019,
+      "mois": 9,
+      "indice": 105.73,
+      "super": 1.44,
+      "gazole": 1.06,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-10-01",
+      "annee": 2019,
+      "mois": 10,
+      "indice": 107.32,
+      "super": 1.44,
+      "gazole": 1.06,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-11-01",
+      "annee": 2019,
+      "mois": 11,
+      "indice": 108.03,
+      "super": 1.44,
+      "gazole": 1.06,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2019-12-01",
+      "annee": 2019,
+      "mois": 12,
+      "indice": 107.86,
+      "super": 1.45,
+      "gazole": 1.07,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-01-01",
+      "annee": 2020,
+      "mois": 1,
+      "indice": 108.16,
+      "super": 1.45,
+      "gazole": 1.07,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-02-01",
+      "annee": 2020,
+      "mois": 2,
+      "indice": 109.13,
+      "super": 1.45,
+      "gazole": 1.07,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-03-01",
+      "annee": 2020,
+      "mois": 3,
+      "indice": 104.43,
+      "super": 1.46,
+      "gazole": 1.08,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-04-01",
+      "annee": 2020,
+      "mois": 4,
+      "indice": 92.55,
+      "super": 1.46,
+      "gazole": 1.08,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-05-01",
+      "annee": 2020,
+      "mois": 5,
+      "indice": 83.2,
+      "super": 1.46,
+      "gazole": 1.08,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-06-01",
+      "annee": 2020,
+      "mois": 6,
+      "indice": 87.44,
+      "super": 1.46,
+      "gazole": 1.08,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-07-01",
+      "annee": 2020,
+      "mois": 7,
+      "indice": 91.08,
+      "super": 1.47,
+      "gazole": 1.09,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-08-01",
+      "annee": 2020,
+      "mois": 8,
+      "indice": 93.53,
+      "super": 1.47,
+      "gazole": 1.09,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-09-01",
+      "annee": 2020,
+      "mois": 9,
+      "indice": 92.37,
+      "super": 1.47,
+      "gazole": 1.09,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-10-01",
+      "annee": 2020,
+      "mois": 10,
+      "indice": 90.05,
+      "super": 1.48,
+      "gazole": 1.1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-11-01",
+      "annee": 2020,
+      "mois": 11,
+      "indice": 89.64,
+      "super": 1.48,
+      "gazole": 1.1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2020-12-01",
+      "annee": 2020,
+      "mois": 12,
+      "indice": 89.94,
+      "super": 1.48,
+      "gazole": 1.1,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-01-01",
+      "annee": 2021,
+      "mois": 1,
+      "indice": 92.79,
+      "super": 1.49,
+      "gazole": 1.11,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-02-01",
+      "annee": 2021,
+      "mois": 2,
+      "indice": 96.09,
+      "super": 1.49,
+      "gazole": 1.11,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-03-01",
+      "annee": 2021,
+      "mois": 3,
+      "indice": 99.86,
+      "super": 1.49,
+      "gazole": 1.11,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-04-01",
+      "annee": 2021,
+      "mois": 4,
+      "indice": 103.2,
+      "super": 1.49,
+      "gazole": 1.11,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-05-01",
+      "annee": 2021,
+      "mois": 5,
+      "indice": 101.24,
+      "super": 1.5,
+      "gazole": 1.12,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-06-01",
+      "annee": 2021,
+      "mois": 6,
+      "indice": 102.02,
+      "super": 1.5,
+      "gazole": 1.12,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-07-01",
+      "annee": 2021,
+      "mois": 7,
+      "indice": 104.63,
+      "super": 1.5,
+      "gazole": 1.12,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-09-01",
+      "annee": 2021,
+      "mois": 9,
+      "indice": 107.83,
+      "super": 1.51,
+      "gazole": 1.13,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-10-01",
+      "annee": 2021,
+      "mois": 10,
+      "indice": 108.01,
+      "super": 1.51,
+      "gazole": 1.13,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-11-01",
+      "annee": 2021,
+      "mois": 11,
+      "indice": 115.96,
+      "super": 1.51,
+      "gazole": 1.13,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2021-12-01",
+      "annee": 2021,
+      "mois": 12,
+      "indice": 118.07,
+      "super": 1.52,
+      "gazole": 1.14,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-01-01",
+      "annee": 2022,
+      "mois": 1,
+      "indice": 113.18,
+      "super": 1.52,
+      "gazole": 1.14,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-02-01",
+      "annee": 2022,
+      "mois": 2,
+      "indice": 117.86,
+      "super": 1.52,
+      "gazole": 1.14,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-03-01",
+      "annee": 2022,
+      "mois": 3,
+      "indice": 125.18,
+      "super": 1.53,
+      "gazole": 1.15,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-04-01",
+      "annee": 2022,
+      "mois": 4,
+      "indice": 129.42,
+      "super": 1.53,
+      "gazole": 1.15,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-05-01",
+      "annee": 2022,
+      "mois": 5,
+      "indice": 131.34,
+      "super": 1.53,
+      "gazole": 1.15,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-06-01",
+      "annee": 2022,
+      "mois": 6,
+      "indice": 137.06,
+      "super": 1.54,
+      "gazole": 1.16,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-07-01",
+      "annee": 2022,
+      "mois": 7,
+      "indice": 150.07,
+      "super": 1.54,
+      "gazole": 1.16,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-08-01",
+      "annee": 2022,
+      "mois": 8,
+      "indice": 134.41,
+      "super": 1.54,
+      "gazole": 1.16,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-09-01",
+      "annee": 2022,
+      "mois": 9,
+      "indice": 118.94,
+      "super": 1.54,
+      "gazole": 1.16,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-10-01",
+      "annee": 2022,
+      "mois": 10,
+      "indice": 120.49,
+      "super": 1.55,
+      "gazole": 1.17,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-11-01",
+      "annee": 2022,
+      "mois": 11,
+      "indice": 128.8,
+      "super": 1.55,
+      "gazole": 1.17,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2022-12-01",
+      "annee": 2022,
+      "mois": 12,
+      "indice": 132.4,
+      "super": 1.55,
+      "gazole": 1.17,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-01-01",
+      "annee": 2023,
+      "mois": 1,
+      "indice": 129.56,
+      "super": 1.56,
+      "gazole": 1.18,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-02-01",
+      "annee": 2023,
+      "mois": 2,
+      "indice": 130.05,
+      "super": 1.56,
+      "gazole": 1.18,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-03-01",
+      "annee": 2023,
+      "mois": 3,
+      "indice": 128.31,
+      "super": 1.56,
+      "gazole": 1.18,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-04-01",
+      "annee": 2023,
+      "mois": 4,
+      "indice": 128.58,
+      "super": 1.56,
+      "gazole": 1.18,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-05-01",
+      "annee": 2023,
+      "mois": 5,
+      "indice": 124.06,
+      "super": 1.57,
+      "gazole": 1.19,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-06-01",
+      "annee": 2023,
+      "mois": 6,
+      "indice": 117.68,
+      "super": 1.57,
+      "gazole": 1.19,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-07-01",
+      "annee": 2023,
+      "mois": 7,
+      "indice": 120.19,
+      "super": 1.57,
+      "gazole": 1.19,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-08-01",
+      "annee": 2023,
+      "mois": 8,
+      "indice": 121.86,
+      "super": 1.58,
+      "gazole": 1.2,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-09-01",
+      "annee": 2023,
+      "mois": 9,
+      "indice": 131.12,
+      "super": 1.58,
+      "gazole": 1.2,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-10-01",
+      "annee": 2023,
+      "mois": 10,
+      "indice": 135.83,
+      "super": 1.58,
+      "gazole": 1.2,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-11-01",
+      "annee": 2023,
+      "mois": 11,
+      "indice": 131.46,
+      "super": 1.58,
+      "gazole": 1.2,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2023-12-01",
+      "annee": 2023,
+      "mois": 12,
+      "indice": 127.21,
+      "super": 1.59,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-01-01",
+      "annee": 2024,
+      "mois": 1,
+      "indice": 122.83,
+      "super": 1.59,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-02-01",
+      "annee": 2024,
+      "mois": 2,
+      "indice": 124.2,
+      "super": 1.59,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-03-01",
+      "annee": 2024,
+      "mois": 3,
+      "indice": 127.78,
+      "super": 1.6,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-04-01",
+      "annee": 2024,
+      "mois": 4,
+      "indice": 126.16,
+      "super": 1.6,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-05-01",
+      "annee": 2024,
+      "mois": 5,
+      "indice": 128.12,
+      "super": 1.6,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-06-01",
+      "annee": 2024,
+      "mois": 6,
+      "indice": 123.97,
+      "super": 1.61,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-07-01",
+      "annee": 2024,
+      "mois": 7,
+      "indice": 122.58,
+      "super": 1.61,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-08-01",
+      "annee": 2024,
+      "mois": 8,
+      "indice": 124.51,
+      "super": 1.61,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-09-01",
+      "annee": 2024,
+      "mois": 9,
+      "indice": 119.82,
+      "super": 1.61,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-10-01",
+      "annee": 2024,
+      "mois": 10,
+      "indice": 114.33,
+      "super": 1.62,
+      "gazole": 1.24,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-11-01",
+      "annee": 2024,
+      "mois": 11,
+      "indice": 116.55,
+      "super": 1.62,
+      "gazole": 1.24,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2024-12-01",
+      "annee": 2024,
+      "mois": 12,
+      "indice": 117.63,
+      "super": 1.61,
+      "gazole": 1.24,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-01-01",
+      "annee": 2025,
+      "mois": 1,
+      "indice": 119.73,
+      "super": 1.6,
+      "gazole": 1.24,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-02-01",
+      "annee": 2025,
+      "mois": 2,
+      "indice": 123.49,
+      "super": 1.6,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-03-01",
+      "annee": 2025,
+      "mois": 3,
+      "indice": 121.36,
+      "super": 1.59,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-04-01",
+      "annee": 2025,
+      "mois": 4,
+      "indice": 116.17,
+      "super": 1.58,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-05-01",
+      "annee": 2025,
+      "mois": 5,
+      "indice": 112.66,
+      "super": 1.57,
+      "gazole": 1.23,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-06-01",
+      "annee": 2025,
+      "mois": 6,
+      "indice": 111.85,
+      "super": 1.57,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-07-01",
+      "annee": 2025,
+      "mois": 7,
+      "indice": 115.1,
+      "super": 1.56,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-08-01",
+      "annee": 2025,
+      "mois": 8,
+      "indice": 113.98,
+      "super": 1.55,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-09-01",
+      "annee": 2025,
+      "mois": 9,
+      "indice": 113.73,
+      "super": 1.54,
+      "gazole": 1.22,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-10-01",
+      "annee": 2025,
+      "mois": 10,
+      "indice": 115.89,
+      "super": 1.54,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-11-01",
+      "annee": 2025,
+      "mois": 11,
+      "indice": 114.8,
+      "super": 1.53,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2025-12-01",
+      "annee": 2025,
+      "mois": 12,
+      "indice": 118.83,
+      "super": 1.52,
+      "gazole": 1.21,
+      "source": "INSEE + interpolation"
+    },
+    {
+      "date": "2026-01-01",
+      "annee": 2026,
+      "mois": 1,
+      "super": 1.56,
+      "gazole": 1.23,
+      "gnr": 0.72,
+      "gaz": 18.59,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-02-01",
+      "annee": 2026,
+      "mois": 2,
+      "super": 1.51,
+      "gazole": 1.22,
+      "gnr": 0.71,
+      "gaz": 18.98,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-03-01",
+      "annee": 2026,
+      "mois": 3,
+      "super": 1.54,
+      "gazole": 1.25,
+      "gnr": 0.75,
+      "gaz": 19.08,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-04-01",
+      "annee": 2026,
+      "mois": 4,
+      "super": 1.96,
+      "gazole": 1.77,
+      "gnr": 1.23,
+      "gaz": 19.27,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-05-01",
+      "annee": 2026,
+      "mois": 5,
+      "super": 1.93,
+      "gazole": 1.83,
+      "gnr": 1.29,
+      "gaz": 21.9,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-06-01",
+      "annee": 2026,
+      "mois": 6,
+      "super": 1.94,
+      "gazole": 1.71,
+      "gnr": 1.19,
+      "gaz": 22.06,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-08-01",
+      "annee": 2026,
+      "mois": 8,
+      "super": 1.78,
+      "gazole": 1.55,
+      "gnr": 1.02,
+      "gaz": 20.29,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-09-01",
+      "annee": 2026,
+      "mois": 9,
+      "super": 1.83,
+      "gazole": 1.68,
+      "gnr": 1.15,
+      "gaz": 20.6,
+      "source": "Communiqué préfecture"
+    },
+    {
+      "date": "2026-10-01",
+      "annee": 2026,
+      "mois": 10,
+      "super": 2,
+      "gazole": 1.8,
+      "gnr": null,
+      "gaz": 20.81,
+      "source": "France Info Réunion"
+    }
+  ]
+}
